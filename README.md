@@ -7,6 +7,7 @@ Track real-time lightning strikes across the globe using R, WebSockets, and a to
 
 Live logging of lightning strikes in your R console in real-time.
 
+<img width="1910" height="966" alt="Screenshot 2025-07-11 223724" src="https://github.com/user-attachments/assets/4f13e579-054c-46f2-a07f-d99f42cd168c" />
 
 
 Map visualization using leaflet (optional).
