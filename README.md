@@ -80,4 +80,8 @@ Made by me (gaurav0xh4ck3r aka GAURAV JAIN) —  a cybersecurity researcher and 
 
 
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXMzZGNyNzV4M3U4eXFpMHNqYWE2amQyb2tnY2xxcDBqYzJxcDJlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif
+<img width="599" height="338" alt="image" src="https://github.com/user-attachments/assets/7246947a-8c60-4a6c-b056-ae98bc79ff41" />
+
+Thank you for Reading! 
+this below is my article of this task on Medium 
+https://medium.com/@gj20052007/how-i-tracked-lightning-strikes-in-real-time-with-r-695199063830
