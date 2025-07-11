@@ -1,8 +1,9 @@
-⚡ Lightning Tracker in R
+⚡ **Lightning Tracker in R**
 
 Track real-time lightning strikes across the globe using R, WebSockets, and a touch of curiosity.
 
-📸 Preview
+
+📸** Preview**
 
 Live logging of lightning strikes in your R console in real-time.
 
@@ -10,7 +11,8 @@ Live logging of lightning strikes in your R console in real-time.
 
 Map visualization using leaflet (optional).
 
-🛠 Features
+**
+🛠 Features**
 
 Connects to Blitzortung.org live lightning strike feed
 
@@ -22,18 +24,23 @@ Real-time updates to a data.frame
 
 Optional live map using leaflet
 
+
+
 📦 Requirements
 
 Make sure you have the following installed:
 
-R
+> R
 
-RStudio
+> RStudio
 
 R packages:
+
 <img width="658" height="49" alt="image" src="https://github.com/user-attachments/assets/fb41a42d-1238-4cd0-9a3e-40ef68bb7722" />
 
-🚀 How to Run
+
+
+**🚀 How to Run**
 
 1. Clone this repo or download the lightning_tracker.R file.
 
@@ -42,49 +49,35 @@ R packages:
 3. Run the script.
 
 4. You’ll see messages like:
+   
 <img width="321" height="75" alt="image" src="https://github.com/user-attachments/assets/73fbf875-476a-481b-80b3-1cc5a81cab27" />
 
-5. To stop it anytime:
+6. To stop it anytime:
+   
 <img width="159" height="52" alt="image" src="https://github.com/user-attachments/assets/e708e716-4f78-4a40-94e9-ccf6d1ff4270" />
 
-6. View your data:
+8. View your data:
+   
 <img width="232" height="44" alt="image" src="https://github.com/user-attachments/assets/9eaa2bf3-316c-4285-bb32-16595ffc39ad" />
 
-🧠 How It Works (Explained Simply)
+
+
+🧠** How It Works (Explained Simply)**
 
 Imagine eavesdropping on lightning. This R script connects to a secret WebSocket where lightning data comes flying in — compressed, nerdy, and fast. We say “Hello!” using a handshake ({"a":111}), and boom — strikes start flowing. We decode them, log them, and store them in a table. It’s basically a storm-chasing control center, all inside RStudio.
 
+
+
 📂 Sample Output Table
 
-time
+<img width="1129" height="648" alt="Screenshot 2025-07-11 222311" src="https://github.com/user-attachments/assets/bf5aaac7-bbd0-4f7c-ba49-7ba59c0758e3" />
 
-lat
 
-lon
 
-delay
+👨‍💻 Author
 
-pol
+Made by me (gaurav0xh4ck3r aka GAURAV JAIN) —  a cybersecurity researcher and ethical hacker specializing in web application penetration testing WAPT and bug bounty hunting. I actively identifies and reports critical security vulnerabilities to help companies improve their security posture.
 
-2025-07-11 16:42:11
 
-30.7
 
--78.5
-
-4.2
-
-0
-
-2025-07-11 16:42:12
-
-56.0
-
-32.1
-
-4.3
-
-1
-
-🗺 Optional: Visualize Lightning on a Map
-
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXMzZGNyNzV4M3U4eXFpMHNqYWE2amQyb2tnY2xxcDBqYzJxcDJlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif
